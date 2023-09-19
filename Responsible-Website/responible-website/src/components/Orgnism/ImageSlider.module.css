@@ -1,0 +1,9 @@
+.image1{
+    display: flex;
+    position: absolute;
+    left: 10rem;
+}
+.scroll{
+   position: relative;
+   bottom: 20rem;
+}
